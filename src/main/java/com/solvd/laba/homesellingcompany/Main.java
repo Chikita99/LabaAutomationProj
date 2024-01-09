@@ -1,8 +1,16 @@
-package myproject;
+package com.solvd.laba.homesellingcompany;
+import com.solvd.laba.homesellingcompany.entities.Apartments;
+import com.solvd.laba.homesellingcompany.entities.Homes;
+import com.solvd.laba.homesellingcompany.entities.Person;
+import com.solvd.laba.homesellingcompany.entities.UsersProperty;
+import com.solvd.laba.homesellingcompany.services.Calculator;
+import com.solvd.laba.homesellingcompany.services.ConsolePrinter;
+import com.solvd.laba.homesellingcompany.services.ContactInfo;
+import com.solvd.laba.homesellingcompany.services.Payment;
 import myproject.entities.*;
-import myproject.entities.base.Building;
+import com.solvd.laba.homesellingcompany.entities.base.Building;
 import myproject.services.*;
-import myproject.services.exceptions.MissingBuildingException;
+import com.solvd.laba.homesellingcompany.services.exceptions.MissingBuildingException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

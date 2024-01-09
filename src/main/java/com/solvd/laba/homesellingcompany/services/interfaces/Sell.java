@@ -1,4 +1,4 @@
-package myproject.services.interfaces;
+package com.solvd.laba.homesellingcompany.services.interfaces;
 
 public interface Sell {
     void sellEntity(String name, String location, double price);

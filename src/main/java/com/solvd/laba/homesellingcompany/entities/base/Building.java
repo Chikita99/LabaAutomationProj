@@ -1,6 +1,6 @@
-package myproject.entities.base;
+package com.solvd.laba.homesellingcompany.entities.base;
 
-import myproject.entities.interfaces.PricedProperty;
+import com.solvd.laba.homesellingcompany.entities.interfaces.PricedProperty;
 
 import java.util.List;
 

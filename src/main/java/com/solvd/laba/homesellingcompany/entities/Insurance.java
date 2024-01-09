@@ -1,4 +1,4 @@
-package myproject.entities;
+package com.solvd.laba.homesellingcompany.entities;
 
 public class Insurance {
     private int price;

@@ -1,4 +1,4 @@
-package myproject.services;
+package com.solvd.laba.homesellingcompany.services;
 
 import java.text.NumberFormat;
 import java.util.Locale;

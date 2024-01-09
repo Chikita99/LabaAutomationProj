@@ -1,4 +1,4 @@
-package myproject.services.exceptions;
+package com.solvd.laba.homesellingcompany.services.exceptions;
 
 public class MissingBuildingException extends Exception {
 

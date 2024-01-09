@@ -1,7 +1,4 @@
-package myproject.services;
-
-import myproject.services.Calculator;
-import myproject.services.Data;
+package com.solvd.laba.homesellingcompany.services;
 
 import java.text.NumberFormat;
 import java.util.Locale;

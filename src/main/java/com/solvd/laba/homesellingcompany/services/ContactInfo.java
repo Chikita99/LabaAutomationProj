@@ -1,4 +1,4 @@
-package myproject.services;
+package com.solvd.laba.homesellingcompany.services;
 
 public final class ContactInfo {
     private final static int phoneNumber = 1600234042;

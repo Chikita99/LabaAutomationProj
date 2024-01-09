@@ -1,4 +1,4 @@
-package myproject.services;
+package com.solvd.laba.homesellingcompany.services;
 
 public class Data {
     private final static int monthsInYear = 12;

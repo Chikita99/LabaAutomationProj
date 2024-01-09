@@ -1,8 +1,8 @@
-package myproject.services;
+package com.solvd.laba.homesellingcompany.services;
 
-import myproject.entities.Person;
-import myproject.entities.UsersProperty;
-import myproject.services.interfaces.Sell;
+import com.solvd.laba.homesellingcompany.entities.Person;
+import com.solvd.laba.homesellingcompany.entities.UsersProperty;
+import com.solvd.laba.homesellingcompany.services.interfaces.Sell;
 
 import java.util.Scanner;
 
