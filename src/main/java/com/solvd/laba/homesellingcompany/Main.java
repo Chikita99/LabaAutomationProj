@@ -7,9 +7,9 @@ import com.solvd.laba.homesellingcompany.services.Calculator;
 import com.solvd.laba.homesellingcompany.services.ConsolePrinter;
 import com.solvd.laba.homesellingcompany.services.ContactInfo;
 import com.solvd.laba.homesellingcompany.services.Payment;
-import myproject.entities.*;
+
 import com.solvd.laba.homesellingcompany.entities.base.Building;
-import myproject.services.*;
+
 import com.solvd.laba.homesellingcompany.services.exceptions.MissingBuildingException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
